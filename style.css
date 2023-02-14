@@ -1,0 +1,16 @@
+body {
+    background-color: cyan;
+}
+#instrucciones {
+    text-align: center;
+    color: red;
+}
+
+#pasos {
+    text-align: left;
+    color: rgb(0, 4, 255);
+}
+#img {
+    width: 150px;
+    top: 30px;
+}
